@@ -24,6 +24,6 @@ jobs:
           lang: 'cpp'
           upload: 'true'
           debug: 'true'
-          path: 'projects/composablekernel'
+          path: 'projects/hipsolver'
           github-token: ${{ secrets.PAT_TOKEN }}
           glog-token: ${{ secrets.GLOG_TOKEN }}
